@@ -12,10 +12,10 @@ Join me on discord: https://discord.gg/HdsMTrUGau
 
 # Current development stages:
 
-## On hold:
+## In development:
 * Youtube to mp3 (having issues with youtube-dl)
 
-## In development:
+## On hold:
 * Adding a html web scraper to readmeGeny to automagically grab all relevant 
 information from the alx projects page.
 
