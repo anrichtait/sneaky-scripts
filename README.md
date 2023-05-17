@@ -14,6 +14,7 @@ Join me on discord: https://discord.gg/HdsMTrUGau
 
 ## In development:
 * Youtube to mp3 (having issues with youtube-dl)
+* Pomodoro Timer and Study tracker
 
 ## On hold:
 * Adding a html web scraper to readmeGeny to automagically grab all relevant 
